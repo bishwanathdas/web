@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/**{
+    color: #009900;
+}*/
+
+
+/*div{
+    font-size: 20px;
+}*/
+
+/*div[class]{
+    background-color: #77d478;
+}*/
+
+
+div[class="myclass"]{
+    background-color: #99FF66;
+}
+
+/*div[class~="myclass"]{
+    background-color: #99FF66;
+}*/
+
+/*div[class^="my"]{
+    background-color: #99FF66;
+}*/
+
+
+
+
+
+
+
+
+
+
