@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.first-name:focus{background-color:yellow;}
+.last-name:focus{background-color:lime;}
