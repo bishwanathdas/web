@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9300be2-ec8e-4e7e-b7d4-fcbcc20f173d" name="Default Changelist" comment="" />
+    <list default="true" id="f9300be2-ec8e-4e7e-b7d4-fcbcc20f173d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day11/day11.exercise/css/attribute/attributestyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day11/day11.exercise/css/type/typeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day11/day11.exercise/css/universal/UniStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day11/day11.exercise/day11.type.selector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day11/day11.exercise/day11.uni.selector.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Design/pondit/css3/day11/day11.instructor/5.Selectors/3. Attribute Selectors/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day11/day11.instructor/5.Selectors/3. Attribute Selectors/style.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -63,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588945476798</updated>
-      <workItem from="1588945477971" duration="11196000" />
+      <workItem from="1588945477971" duration="12364000" />
+      <workItem from="1588991153119" duration="405000" />
     </task>
     <servers />
   </component>
@@ -75,7 +84,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
