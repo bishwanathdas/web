@@ -1,0 +1,20 @@
+div[class="fclass"]{
+    background-color: #ff7e19;
+}
+
+div[class~="myfclass"]{
+
+    background-color: #009900;
+}
+
+div[class="another class"]{
+
+    background-color: #6D81B5;
+}
+
+/*
+div[class*="fclass"]{
+
+    background-color: #6D81B5;
+}
+*/
