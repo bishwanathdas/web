@@ -1,0 +1,6 @@
+span,p:nth-of-type(1){
+
+    background-color: #660000;
+    color: white;
+    font-size: large;
+}

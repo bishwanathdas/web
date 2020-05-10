@@ -1,0 +1,15 @@
+p:nth-last-of-type(2){
+    background-color: maroon;
+}
+
+p:nth-last-of-type(even){
+    background-color: #3366FF;
+}
+
+p:nth-last-of-type(odd){
+    background-color: #ff7e19;
+}
+
+p:nth-last-of-type(2n+0){
+    background-color: #FF0066;
+}
