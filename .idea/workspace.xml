@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9300be2-ec8e-4e7e-b7d4-fcbcc20f173d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day12/day12.exercise/day12.nth.last.of.type/day12.nth.last.of.type.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day12/day12.exercise/day12.nth.last.of.type/nth.last.of.type.style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day12/day12.exercise/day12.nth.type/day12.nth.of.type.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day12/day12.exercise/day12.nth.type/nth.of.type.style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day12/day12.exercise/day12.first.child/day12.first.child.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day12/day12.exercise/day12.first.child/first.child.style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day12/day12.exercise/day12.hover.link.visited.active/day12.link.hover.visited.active.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day12/day12.exercise/day12.hover.link.visited.active/link.hover.visited.active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day12/day12.exercise/day12.last.child/day12.last.child.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day12/day12.exercise/day12.last.child/last.child.style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +74,7 @@
       <workItem from="1588945477971" duration="12364000" />
       <workItem from="1588991153119" duration="3630000" />
       <workItem from="1589035481169" duration="11294000" />
-      <workItem from="1589077805702" duration="986000" />
+      <workItem from="1589077805702" duration="2162000" />
     </task>
     <servers />
   </component>
