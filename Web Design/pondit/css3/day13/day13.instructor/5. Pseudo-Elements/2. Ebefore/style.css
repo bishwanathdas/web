@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1::before{
+    content: "{";
+    font-size: 40px;
+    color: #009900;
+    font-weight: 900;
+
+}
+p::before{
+    content: "Read this-";
+    color: #ffb816;
+    font-weight: bold;
+}
+h2::before{
+    content: url("img/img_flwr.gif");
+}
+
+h1::after{
+    content: "}";
+    font-size: 40px;
+    color: #009900;
+    font-weight: 900;
+}
+
+
+
+/*
+h1::before{
+    content: "{";
+    color: #99FF66;
+    background-color: #0000FF;
+}
+
+p::before {content: "Read this -";
+    background-color:yellow;
+    color:red;
+     font-weight:bold;
+}
+
+h2::before{
+    content:url("img/img_tree.gif") ;
+}
+
+
+h1::after{
+    content: "}";
+    color: #99FF66;
+    background-color: #0000FF;
+}
+
+*/
+
+

@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*p strong{
+    background-color: #2e6da4;
+}*/
+
+/*p > strong{
+    background-color: #2e6da4;
+}*/
+
+p span strong{
+    background-color: #2e6da4;
+}
+
+/*p > span > strong{
+    background-color: #2e6da4;
+}*/
+
+

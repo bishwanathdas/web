@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+}
+#aContent{
+    background-color: #adadad;
+    width: 400px;
+    padding: 20px;
+    /*padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 35px;
+    padding-left: 40px;*/
+    /*padding: 20px 30px 35px 40px;*/
+    /*padding: 30px 50px 40px;*/
+   /* padding: 30px 50px 40px 0;*/
+   /* padding: 30px 50px;*/
+    /*padding: 30px 50px 0;*/
+    border: 5px solid #FF0000;
+    /*border-top: 3px solid #009900;
+    border-right: 3px dotted #f52630;
+    border-bottom: 4px dashed #f5f519;
+    border-left: 3px double #2a29f5;*/
+    /*border-width: 3px;
+    border-style: solid;
+    border-color: #FF0000;*/
+    /*border-style: dotted;*/
+    /*border-top-color: #009900;*/
+    /*margin: 30px;*/
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-bottom: 50px;
+    margin-left: 60px;*/
+   /* margin: 30px 40px 50px 60px;*/
+    /*margin: 40px 50px 60px;*/
+   /* margin: 40px 50px 60px 0;*/
+   /* margin: 40px 50px ;*/
+   /* margin: auto;*/
+}
+
+
+.cssShortCut{
+    background-color: #99FF66;
+    width: 300px;
+    height: 80px;
+    padding: 20px;
+    border: 2px solid #FF0000;
+    margin: 30px;
+    /*float: left;*/
+}
+
+
+.cTest{
+    margin: 50px;
+}
+
+
+
+
+
+
+
+
+
+
