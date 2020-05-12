@@ -1,0 +1,19 @@
+/*
+p strong{
+    background-color: #FF0066;
+}
+*/
+
+
+p > strong{
+    background-color: #2e898a;
+}
+
+/*
+p span strong{
+    background-color: #ff7e19;
+}
+
+p > span > strong{
+    background-color: #660000;
+}*/

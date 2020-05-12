@@ -1,0 +1,26 @@
+h1::before{
+    content: "{";
+    font-size: 50px;
+    font-family: Verdana;
+    color: #FF0066;
+}
+
+h1::after{
+
+    content: "}";
+    font-size: 50px;
+    font-family: Verdana;
+    color: #FF0066;
+
+}
+
+p::before{
+    content: "Read this:";
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+
+h2::before{
+    content: url("image/image1.jpg");
+}

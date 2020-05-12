@@ -1,0 +1,14 @@
+P > b{
+    background-color: #ff7e19;
+}
+
+/*
+p span b{
+    background-color: #3366FF;
+}
+*/
+
+p > span > b{
+
+    background-color: red;
+}
