@@ -1,0 +1,44 @@
+#content{
+    width: 600px;
+    margin: 0 auto;
+}
+
+#div-1{
+    background-color: black;
+    color: #f0f5f5;
+    font-weight: bold;
+    width: 600px;
+    padding: 5px;
+}
+
+#div-1a{
+    background-color: red;
+    width: 580px;
+    padding: 5px;
+}
+
+#div-1b{
+    background-color: #009900;
+    width: 580px;
+    padding: 5px;
+}
+
+#div-1c{
+    background-color: #3366FF;
+    width: 580px;
+    padding: 5px;
+}
+
+#div-1-before{
+    background-color: yellow;
+    width: 600px;
+    padding: 5px;
+}
+
+#div-1-after{
+
+    background-color: #6D81B5;
+    width: 600px;
+    padding: 5px;
+
+}
