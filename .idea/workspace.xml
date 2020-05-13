@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9300be2-ec8e-4e7e-b7d4-fcbcc20f173d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day13/day13.hw/Attribut selector/attribute.style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day13/day13.hw/Attribut selector/day13.hw.attribute.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day13/day13.hw/Type Selector/day13.type.selector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day13/day13.hw/Type Selector/type.selector.style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day13/day13.hw/Universal Selector/day13.universal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day13/day13.hw/Universal Selector/universal.style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Design/pondit/css3/day13/day13.hw/Type Selector/type.selector.style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day13/day13.hw/Type Selector/type.selector.style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +82,7 @@
       <workItem from="1589304445332" duration="2963000" />
       <workItem from="1589308179430" duration="713000" />
       <workItem from="1589335374463" duration="6779000" />
-      <workItem from="1589343936511" duration="3514000" />
+      <workItem from="1589343936511" duration="4385000" />
     </task>
     <servers />
   </component>
