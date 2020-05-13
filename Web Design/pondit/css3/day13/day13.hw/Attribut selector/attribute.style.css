@@ -1,0 +1,31 @@
+/*
+.oneclass{
+    background-color: red;
+}
+*/
+
+/*
+div[class="oneclass"]{
+
+    background-color: #3366FF;
+}
+*/
+
+/*
+div[class~="oneclass"]{
+
+    background-color: #3366FF;
+}*/
+
+div[class^="oneclass"]{
+
+    background-color: #3366FF;
+}
+
+p{
+    background-color: #6D81B5;
+}
+
+span{
+    background-color: #ff7e19;
+}

@@ -1,0 +1,18 @@
+ul.item li:last-child{
+    font-style: italic;
+    color: #110fff;
+    font-weight: bold;
+}
+
+p{
+    color: #ff7e19;
+}
+
+
+p span{
+    font-style: italic;
+    text-transform: capitalize;
+    color: #110fff;
+    font-weight: bold;
+}
+
