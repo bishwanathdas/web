@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb397f4c-bc6a-4bba-afa1-d42ab5e7a83b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pondit/css3/day13/day13.hw/HTML Menu/day13.menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pondit/css3/day13/day13.hw/HTML Menu/day13.menu.scr3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pondit/css3/day13/day13.hw/HTML Menu/menu.style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pondit/css3/day13/day13.hw/HTML Menu/menu.style.scr3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pondit/css3/day16/day16.exercise/day16.box.model.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pondit/css3/day16/day16.exercise/box.style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pondit/css3/day15/day15.exercise/ex.box.model.style.css" beforeDir="false" afterPath="$PROJECT_DIR$/pondit/css3/day15/day15.exercise/ex.box.model.style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pondit/css3/day16/day16.exercise/day16.box.model.html" beforeDir="false" afterPath="$PROJECT_DIR$/pondit/css3/day16/day16.exercise/day16.box.model.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -75,7 +70,7 @@
       <workItem from="1589567881968" duration="6000" />
       <workItem from="1589596448023" duration="4956000" />
       <workItem from="1589613579328" duration="86000" />
-      <workItem from="1589646277919" duration="1705000" />
+      <workItem from="1589646277919" duration="5675000" />
     </task>
     <servers />
   </component>
