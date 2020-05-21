@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb397f4c-bc6a-4bba-afa1-d42ab5e7a83b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pondit/css3/day16/day16.exercise/box.style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pondit/css3/day17/day17.instructor/day17.ex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pondit/css3/day17/day17.instructor/ex.ins.style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pondit/css3/day17/day17.instructor/img/Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pondit/css3/day17/day17.instructor/img/donald_trump_106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pondit/css3/day17/day17.instructor/img/ek-takar-dokan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pondit/css3/day17/day17.instructor/img/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pondit/css3/day16/day16.exercise/day16.box.model.html" beforeDir="false" afterPath="$PROJECT_DIR$/pondit/css3/day16/day16.exercise/day16.box.model.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +40,14 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/git-bash.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pondit/css3/day17/day17.instructor/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\web\Web Design\pondit\css3\day17\day17.instructor\img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,6 +80,15 @@
       <workItem from="1589596448023" duration="4956000" />
       <workItem from="1589613579328" duration="86000" />
       <workItem from="1589646277919" duration="5675000" />
+      <workItem from="1589684563231" duration="4115000" />
+      <workItem from="1589695540049" duration="4000" />
+      <workItem from="1589704060296" duration="26000" />
+      <workItem from="1589721529260" duration="67000" />
+      <workItem from="1589770245310" duration="1875000" />
+      <workItem from="1589811328806" duration="979000" />
+      <workItem from="1589856287408" duration="1189000" />
+      <workItem from="1589954442603" duration="598000" />
+      <workItem from="1589991580287" duration="2865000" />
     </task>
     <servers />
   </component>

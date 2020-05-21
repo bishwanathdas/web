@@ -1,0 +1,29 @@
+p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px;
+}
+
+.main-container{
+
+    width: 800px;
+    position: relative;
+    /*background-color: #2e898a;*/
+}
+
+.ek-tk{
+
+    width: 250px;
+    position: absolute;
+    left: 100px;
+
+}
+
+.cls-trump{
+
+    width: 250px;
+    position: absolute;
+    right: 100px;
+}

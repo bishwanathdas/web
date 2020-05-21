@@ -1,0 +1,63 @@
+body{
+
+    background-color: #484848;
+    margin-top: 100px;
+    padding: 0;
+}
+
+figure{
+    margin: 0;
+    padding-top: 15px;
+}
+
+section{
+    width: 630px;
+    background-color: #2c4f9c;
+    padding: 0;
+    margin: auto;
+    border-top: 1px double white;
+    border-bottom: 1px double white;
+    border-left: 1px double white;
+    border-right: 1px double white;
+}
+
+section .main-contain{
+    height: 410px;
+    position: relative;
+}
+
+a,h4{
+    padding: 0px;
+    margin: 0;
+    text-decoration: none;
+    font-weight: bold;
+    color: #f0f5f5;
+}
+
+section .first-part{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+section .second-part{
+    position: relative;
+}
+
+section .second-part .photo-first{
+    position: absolute;
+    right: 25px;
+    top: 20px;
+}
+
+section .second-part .photo-middle{
+    position: absolute;
+    right: 25px;
+    top: 150px;
+}
+
+section .second-part .photo-end{
+    position: absolute;
+    top: 257px;
+    right: 25px;
+}

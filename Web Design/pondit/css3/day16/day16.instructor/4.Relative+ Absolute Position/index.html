@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Relative+ Absolute Position</title>
+<style>
+	
+	#content{margin:0 auto;
+			 width:400px;}
+		 
+	p{margin:0;
+	  padding:5px;}
+	  
+	#div-before{background-color:#F90;			
+				}
+				
+	#div-1{background-color:#000;
+	       position:relative;
+		   color:#FFF;
+		   padding:15px;
+		  }
+		   
+	#div-1a{background-color:#F33;
+			}
+	
+	#div-1b{background-color:#0C3; 
+	        position:absolute;
+			top:350px;
+			width:370px;
+		   }
+	
+	#div-1c{background-color:#0066FF;
+		    }
+	
+	#div-after{background-color:#69F;
+			  }
+
+</style>
+
+</head>
+
+<body>
+    <div id="content">
+        <div id="div-before">
+        	<p>id=div-before</p>
+        </div>
+        <div id="div-1">
+        	<p>id=div-1</p>
+        	<div id="div-1a">
+            	<p>id=div-1a</p>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer pretium dui sit amet felis. Integer sit amet diam. Phasellus ultrices viverra velit.</p>
+            </div>
+            <div id="div-1b">
+            	<p>id=div-1b</p>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer pretium dui sit amet felis. Integer sit amet diam. Phasellus ultrices viverra velit.</p>
+            </div>
+            <div id="div-1c">
+            	<p>id=div-1c</p>
+            </div>
+        </div>
+        <div id="div-after">
+        	<p>id=div-after</p>
+        </div>
+    </div>
+</body>
+</html>
