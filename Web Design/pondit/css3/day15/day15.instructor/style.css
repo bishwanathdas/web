@@ -1,0 +1,67 @@
+
+#content{
+    width: 400px;
+    margin: auto;
+}
+p{
+    margin: 0;
+    padding: 5px;
+}
+#div-before{
+    background-color:#F90;
+}
+
+#div-1{
+    background-color: #000;
+    color: #FFF;
+    padding: 15px;
+}
+
+#div-1a{
+    background-color:#F33;
+    left: 50px;
+}
+#div-1b{
+    background-color:#0C3;
+}
+#div-1c{
+    background-color:#0066FF;
+}
+#div-after{
+    background-color:#69F;
+}
+
+/*
+
+p{
+    margin: 0;
+    padding: 5px;
+}
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+#content{margin:0 auto;
+    width:400px;}
+
+p{margin:0;
+    padding:5px;}
+
+#div-before{background-color:#F90;
+}
+
+#div-1{
+    background-color:#000;
+    color:#FFF;
+    padding:15px;
+    position:relative;
+    bottom: -40px;
+    /*left: 30px;*/
+    /*right: 50px;*/
+    /*top: 350px;*/
+
+}
+
+#div-1a{background-color:#F33;
+}
+
+#div-1b{background-color:#0C3;
+}
+
+#div-1c{background-color:#0066FF;
+}
+
+#div-after{background-color:#69F;
+}
+

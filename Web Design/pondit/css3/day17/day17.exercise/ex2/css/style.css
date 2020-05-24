@@ -1,0 +1,119 @@
+body{
+
+    background-color: #4e4e4e;
+    margin-top: 100px;
+}
+
+section.main-section .main-class figure{
+    margin: 0;
+    /*padding: 0;*/
+    padding-bottom: 15px;
+
+}
+
+p{
+    padding: 0px 10px 0px 10px;
+    margin: 0;
+
+}
+
+section.main-section .main-class .first-photo{
+    top: 60px;
+    border-top: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
+    border-right: 1px solid #dfdfdf;
+    border-left: 1px solid #dfdfdf;
+    width: 208px;
+
+}
+
+section.main-section .main-class .middle-photo, .end-photo{
+    top: 60px;
+    border-top: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
+    border-right: 1px solid #dfdfdf;
+    border-left: 1px solid #dfdfdf;
+    width: 206px;
+
+}
+
+
+.text-class{
+    color: #8f8f8f;
+}
+
+.first-photo a{
+    text-decoration: none;
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;
+
+}
+
+a:hover{
+    color: #110fff;
+}
+
+.middle-photo a{
+    text-decoration: underline;
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.end-photo a{
+    text-decoration: none;
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+
+
+h2{
+    padding: 10px;
+    margin: 0;
+}
+
+.first-photo-last-part{
+    margin: 0;
+    padding-left: 5px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+section.main-section .main-class{
+    position: relative;
+    width: 677px;
+    height: 350px;
+    background-color: #f0f5f5;
+    margin: auto;
+    border-top: 1px double gray;
+    border-bottom: 1px double gray;
+    border-right: 1px double gray;
+    border-left: 1px double gray;
+
+}
+
+section.main-section .main-class .first-photo{
+    position: absolute;
+    left: 10px;
+}
+
+
+
+section.main-section .main-class .middle-photo{
+    position: absolute;
+    left: 235px;
+
+}
+
+section.main-section .main-class .end-photo{
+    position: absolute;
+    right: 10px;
+
+}
+
