@@ -2,14 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9300be2-ec8e-4e7e-b7d4-fcbcc20f173d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 1/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 3/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex1/111.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex1/Screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex1/img/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex2/111.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex2/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex2/img/observerbd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex3/333.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex3/Screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex3/ringleader.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex4/4444.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex4/Screenshot_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex4/observerbd.com_1591023107_th.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex5/666.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex5/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex5/ctg_map_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.exercise/ex5/wh2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.instructor/float.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.instructor/ins1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.instructor/ins1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.instructor/ins2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day20/day20.instructor/ins2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.class.instructor/float.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.class.instructor/float1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.class.instructor/float1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.class.instructor/float2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.class.instructor/float2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/1/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/1/111.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/1/Screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/3/333.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/3/Screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/3/ringleader.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/4/4444.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/4/Screenshot_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/4/observerbd.com_1591023107_th.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/5/666.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/5/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/5/ctg_map_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/5/wh2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex2/img/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex2/img/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex2/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex6/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex6/img/Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex6/img/community-hospital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex6/img/daniel-craig.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex6/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex7/Position/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex7/Position/img/corona.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex7/Position/img/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex7/Position/img/pen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/ex7/Position/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw1/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw1/maxresdefault_57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw1/nasa2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw1/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw1/smartphone_sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw2/Screenshot_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw2/du-1_2_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw2/fire_2_36_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw2/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw2/trumpmodi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw3/Screenshot_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw3/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw3/nurul_huda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw3/saleemul_huq_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day21/day21.exercise/hw3/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-1/Screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-1/flight_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-1/future-novel-coronavirus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-1/lonely-city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-1/nazrul_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-1/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-2/1_193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-2/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-2/chrf_web.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-2/digital-security-act.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-2/magazine_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-2/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-2/snake_web.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-2/special-train-mango.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-2/ukhia_coxs-bazar_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-2/vaccines-alliance-covid-19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-3/Screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-3/anis-sir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-3/chrf_web.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-3/flight_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-3/future-novel-coronavirus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-3/lonely-city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-3/magazine_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/Ex-3/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/ex/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/ex/img/Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/ex/img/biman_20_0_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/ex/img/body-recov_84_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/ex/img/chrf_web.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/ex/img/digital-security-act.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/ex/img/magazine_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/ex/img/un-logo-wb_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/ex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day22/day22.exercise/ex/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day25/day25.exercise/hw/hw1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day25/day25.exercise/hw/hw1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day25/day25.exercise/hw/hw2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day25/day25.exercise/hw/hw2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day26/day26.exercise/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day26/day26.exercise/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 3/aaa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 3/aaa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 3/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web Design/pondit/css3/day19/day19.exercise/Ex 3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Design/pondit/html5/day5/day5.instructor/HTML5 Semantic Elements/4.section/04-bootstrap-blog-post-template-right" beforeDir="false" afterPath="$PROJECT_DIR$/Web Design/pondit/html5/day5/day5.instructor/HTML5 Semantic Elements/4.section/04-bootstrap-blog-post-template-right" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Design/pondit/html5/day5/day5.instructor/HTML5 Semantic Elements/4.section/04-bootstrap-blog-post-template-right/LICENCE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Web Design/pondit/html5/day5/day5.instructor/HTML5 Semantic Elements/4.section/04-bootstrap-blog-post-template-right/LICENCE.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Design/pondit/html5/day5/day5.instructor/HTML5 Semantic Elements/4.section/04-bootstrap-blog-post-template-right/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Web Design/pondit/html5/day5/day5.instructor/HTML5 Semantic Elements/4.section/04-bootstrap-blog-post-template-right/README.md" afterDir="false" />
@@ -62,12 +171,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Web Design/pondit/css3/day13/day13.exercise/before/image" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\web\Web Design\pondit\css3\day13\day13.exercise\before\image" />
       <recent name="F:\web\Web Design\pondit\css3\day11\day11.exercise" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\web\Web Design\pondit\css3\day25\day25.exercise\hw\hw2" />
+      <recent name="F:\web\Web Design\pondit\css3\day25\day25.exercise\hw\hw1" />
+      <recent name="F:\web\Web Design\pondit\css3\day20\day20.exercise\ex1\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -127,6 +242,23 @@
       <workItem from="1590503774307" duration="6251000" />
       <workItem from="1590581263642" duration="6918000" />
       <workItem from="1590597765686" duration="7000" />
+      <workItem from="1590665119284" duration="4000" />
+      <workItem from="1590761300685" duration="592000" />
+      <workItem from="1590825850346" duration="2080000" />
+      <workItem from="1590835554834" duration="30000" />
+      <workItem from="1591020212999" duration="1363000" />
+      <workItem from="1591031194501" duration="6000" />
+      <workItem from="1591083876231" duration="1869000" />
+      <workItem from="1591096106712" duration="8490000" />
+      <workItem from="1591107278257" duration="3107000" />
+      <workItem from="1591172512644" duration="2529000" />
+      <workItem from="1591254636641" duration="96000" />
+      <workItem from="1591254840369" duration="93000" />
+      <workItem from="1591254954394" duration="9000" />
+      <workItem from="1591970807646" duration="3728000" />
+      <workItem from="1591978060746" duration="2400000" />
+      <workItem from="1592029937295" duration="11000" />
+      <workItem from="1592059777080" duration="4237000" />
     </task>
     <servers />
   </component>

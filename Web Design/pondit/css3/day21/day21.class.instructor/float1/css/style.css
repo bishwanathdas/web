@@ -1,0 +1,24 @@
+.container{
+    background-color: #ddffc5;
+    width: 600px;
+    border: 2px solid #2b542c;
+}
+
+header{
+    background-color: #afeed1;
+}
+
+span{
+    background-color: #b6bca5;
+    display: block;
+}
+.red-div{
+    background-color: #FF0000;
+    width: 250px;
+   /* float: right;*/
+   /* float: left;*/
+}
+
+article{
+    background-color: #f8de6f;
+}

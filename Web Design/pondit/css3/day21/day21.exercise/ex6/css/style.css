@@ -1,0 +1,32 @@
+section{
+    background-color: #b0ea79;
+    width: 1140px;
+    padding: 20px;
+    margin: auto;
+}
+
+p, figure{
+    margin: 0;
+}
+section .container{
+    overflow: hidden;
+
+}
+section .container #left-part{
+    background-color: #ffcd84;
+    float: left;
+    width: 550px;
+    margin-bottom: 30px;
+}
+section .container #right-part{
+    background-color: #9fbdff;
+    float: right;
+    width: 550px;
+    margin-bottom: 30px;
+}
+section .container footer{
+    background-color: #3B6186;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    clear: both;
+}

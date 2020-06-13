@@ -1,0 +1,9 @@
+div{
+    background-color: #88d291;
+    width: 200px;
+    padding: 20px;
+   /* border: 2px solid #2b542c;*/
+    margin: 40px;
+    outline: 2px solid #FF0000;
+    outline-offset: 4px;
+}

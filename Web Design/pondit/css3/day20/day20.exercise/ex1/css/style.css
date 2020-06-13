@@ -1,0 +1,40 @@
+body{
+    margin-top: 100px;
+    padding: 0;
+    background-color: #4c4c4c;
+}
+.main-contain{
+    background-color: whitesmoke;
+    width: 500px;
+    border: 2px  solid greenyellow;
+    overflow: hidden;
+    margin: auto;
+}
+
+#s-split{
+    padding-top: 15px;
+    margin: 0;
+    font-size: 18px;
+}
+#p-split{
+    font-size: 18px;
+    padding-top: 10px;
+}
+figure{
+    padding: 15px 5px 5px 15px;
+    margin: 0;
+}
+
+div.first-part{
+    float: left;
+    width: 250px;
+}
+
+div.second-part{
+    float: right;
+    width: 200px;
+}
+
+div.third-part{
+    clear: both;
+}

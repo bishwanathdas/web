@@ -1,0 +1,41 @@
+.flex-container {
+    width: 1170px;
+    margin: auto;
+    height: 600px;
+    background-color: #ffb165;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+}
+
+h1 {
+    padding-left: .5em;
+}
+/*.longhand {
+
+}*/
+.shorthand {
+    -webkit-flex-flow: wrap row;
+    flex-flow: wrap row;
+
+}
+.flex-container > div {
+    background-color: #ff7206;
+    padding: 10px;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    line-height: 100px;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+.longhand > div {
+    background-color: #ff7206;
+}

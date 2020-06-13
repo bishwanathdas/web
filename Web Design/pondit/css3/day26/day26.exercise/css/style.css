@@ -1,0 +1,21 @@
+div .m-container{
+    width: 800px;
+    height: 400px;
+}
+
+.m-part{
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    background-color: green;
+    margin: auto;
+    text-align: center;
+    transition: all 5s linear 0s;
+}
+
+.m-part:hover{
+    border: 2px dotted green;
+    background-color: red;
+    border-radius: 100%;
+    color: white;
+}

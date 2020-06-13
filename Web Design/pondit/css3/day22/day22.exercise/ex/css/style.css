@@ -1,0 +1,47 @@
+section{
+    background-color: #b0ea79;
+    width: 595px;
+    padding: 20px;
+    margin: auto;
+}
+
+h4, h5, figure{
+    margin: 0;
+}
+section .row h3 a{
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+section .row{
+    overflow: hidden;
+}
+
+section .row div{
+    float: left;
+    width: 162px;
+    padding-bottom: 20px;
+}
+
+section .row .left-pane{
+    padding-right: 25px;
+}
+section .row .middle-pane{
+    padding-left: 25px;
+    padding-right: 25px;
+    border-left: 1px solid #e6e6e6;
+    border-right: 1px solid #e6e6e6;
+}
+
+section .row .right-pane{
+    padding-left: 25px;
+}
+

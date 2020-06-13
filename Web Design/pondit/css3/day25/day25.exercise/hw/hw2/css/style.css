@@ -1,0 +1,24 @@
+body{
+    background-color: #6e6e6e;
+    margin-top: 120px;
+}
+.flex2-m-contain{
+    background-color: #ffc602;
+    width: 1140px;
+    height: 400px;
+    display: flex;
+}
+
+.flex2-m-contain > div{
+
+    background-color: #ff7e19;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    padding: 5px;
+    line-height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}

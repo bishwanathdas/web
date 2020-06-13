@@ -1,0 +1,25 @@
+.flex-container {
+    background-color: #ffb165;
+    width: 700px;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+}
+.flex-container > div {
+    background: #ff7206;
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    line-height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+.flex-container > div:nth-of-type(1) { order: 3; }
+.flex-container > div:nth-of-type(2) { order: 4; }
+.flex-container > div:nth-of-type(3) { order: 1; }
+.flex-container > div:nth-of-type(4) { order: 5; }
+.flex-container > div:nth-of-type(5) { order: 2; }
+

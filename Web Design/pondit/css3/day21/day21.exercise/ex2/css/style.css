@@ -1,0 +1,29 @@
+section{
+    background-color: #b0ea79;
+    width: 800px;
+    padding: 20px;
+    margin: auto;
+}
+
+p, figure{
+    margin: 0;
+}
+section .container{
+    overflow: hidden;
+}
+section .container figure{
+    float: right;
+    width: 400px;
+    padding-left: 20px;
+}
+
+section .container div{
+    padding-right: 15px;
+}
+
+section .container div p{
+    font-size: 21px;
+    margin-bottom: 18px;
+    line-height: 1.8rem;
+    text-align: justify;
+}

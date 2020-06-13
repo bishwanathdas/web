@@ -1,0 +1,45 @@
+#example1{
+    background-color: #a2c3ff;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#example2{
+    background-color: #a2c3ff;
+    width: 300px;
+    height:100px;
+    padding: 30px;
+    border: 2px solid #286090;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#example3{
+    background-color: #a2c3ff;
+    width: 300px;
+    height:100px;
+    padding: 30px;
+    border: 2px solid #286090;
+    text-align: center;
+    margin: 60px;
+    box-sizing: border-box;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+*/
