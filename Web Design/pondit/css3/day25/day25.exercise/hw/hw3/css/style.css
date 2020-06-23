@@ -1,0 +1,10 @@
+.m-con{
+    width: 1140px;
+    height: 800px;
+    background-color: #ffde2d;
+}
+
+
+.m-con > div{
+    background-color: #c46218;
+}
